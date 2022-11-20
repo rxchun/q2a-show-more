@@ -18,7 +18,7 @@ Installation
  
 Download the plugin
 --------------
-[Buy me a beer][paypal] --- [Download Link][download].
+[Download Link][download] --- [Buy me a beer][paypal].
 
 <a href="https://www.paypal.com/paypalme/chun128" target="_blank"/>
 <img src="https://i.stack.imgur.com/rRaSD.png" border="0" name="submit" alt="Donate with PayPal!"/>
