@@ -1,0 +1,13 @@
+{
+	"name": "Show More text button",
+	"uri": "https://github.com/rxchun/q2a-show-more",
+	"description": "Collapses tall blocks of text (questions/answers/comments) and adds a "read more" button",
+	"version": "1.1",
+	"date": "2015-05-06",
+	"author": "Chun",
+	"author_uri": "https://rxchun.github.io/",
+	"license": "GPLv3",
+	"update_uri": "https://raw.githubusercontent.com/rxchun/q2a-show-more/master/metadata.json",
+	"min_q2a": "1.6",
+	"min_php": "5.4"
+}
